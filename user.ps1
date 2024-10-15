@@ -1,6 +1,6 @@
 # Define variables
-$username = "rhsalisu"
-$fullname = "Rabiu Hadi Salisu"
+$username = "arprofile"
+$fullname = "Abdulfatah Kamil"
 $password = "P@ssw0rd2024"
 $securePassword = ConvertTo-SecureString -String $password -AsPlainText -Force
 
